@@ -10,11 +10,10 @@ paginate: 5
 title : 做好现在的事儿
 tagline: 爱生活，爱技术，爱科技，爱折腾
 author :
-  name : stormzhang
+  name : ws010202
   description: Android Developer, Google Fans, Like OpenSource
-  email : zhangqi.dev@qq.com
-  github : https://github.com/stormzhang
-  twitter : http://twitter.com/storm4android
+  email : 1271162938@qq.com
+  github : https://github.com/ws010202
   simple_search: http://google.com/search
 
 # The production_url is only used when full-domain names are needed
